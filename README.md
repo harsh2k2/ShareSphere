@@ -1,7 +1,5 @@
 # ShareSphere - a Fullstack MERN React Social Media Application
 
-# ShareSphere - Social Media Website (MERN Stack)
-
 ## Description
 
 ShareSphere is a feature-rich social media platform built using the MERN (MongoDB, Express.js, React, Node.js) stack. The platform enables users to connect, share posts, and engage with each other's content in a dynamic and interactive online community.
