@@ -1,2 +1,2 @@
-# ShareSphere
-a Fullstack MERN React Social Media Application
+# ShareSphere - a Fullstack MERN React Social Media Application
+
