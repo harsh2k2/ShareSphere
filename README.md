@@ -1,3 +1,4 @@
+
 # ShareSphere - a Fullstack MERN React Social Media Application
 
 ## Description
@@ -53,18 +54,13 @@ To set up and run the project locally, open 2 split terminal and from terminal:
 
 
 ## Images
+![Uploading Screenshot 2023-08-04 195859.png…]()
+![Uploading Screenshot 2023-08-04 195819.png…]()
 
+![Screenshot 2023-08-04 195718](https://github.com/harsh2k2/ShareSphere/assets/72307191/b1c03030-f3ba-42bd-941b-0fbb4b9abacd)
+![Screenshot 2023-08-04 191324](https://github.com/harsh2k2/ShareSphere/assets/72307191/8f450822-42aa-4e14-8d9a-8a6ec662108f)
+![Uploading Screenshot 2023-08-04 191311.png…]()
 
-
-![Screenshot 2023-08-04 191311](https://github.com/harsh2k2/ShareSphere/assets/72307191/f3273e66-a19c-4131-a742-b6af9d33902e)
-
-![Screenshot 2023-08-04 191324](https://github.com/harsh2k2/ShareSphere/assets/72307191/473ce0b3-a209-4cb3-81c5-7ab37abd5571)
-
-
-![Screenshot 2023-08-04 191311](https://github.com/harsh2k2/ShareSphere/assets/72307191/01cbbe8e-1d39-4daa-abd2-4ea7b797dcf0)
-
-
-![Screenshot 2023-08-04 195718](https://github.com/harsh2k2/ShareSphere/assets/72307191/ec8c0706-84cc-4ff7-abf8-cbae7e9623f8)
 
 
 ![Screenshot 2023-08-04 195859](https://github.com/harsh2k2/ShareSphere/assets/72307191/2195a37c-1fb6-436a-b889-1e64c5186e00)
