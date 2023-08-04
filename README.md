@@ -47,20 +47,14 @@ ShareSphere is a feature-rich social media platform built using the MERN (MongoD
 - Multer
 - GridFS
 
-### Deployment
-
-- Heroku
-
 ## Getting Started
 
-To set up and run the project locally.
-
-- open 2 split terminal and from terminal:
+To set up and run the project locally, open 2 split terminal and from terminal:
 - your directory file, cd to server, run: nodemon index.js
 - your directory file, cd to client, run: npm run start
 
 
-
+## Images
 
 
 
