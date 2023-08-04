@@ -54,16 +54,10 @@ To set up and run the project locally, open 2 split terminal and from terminal:
 
 
 ## Images
-![Uploading Screenshot 2023-08-04 195859.png…]()
-![Uploading Screenshot 2023-08-04 195819.png…]()
+
 
 ![Screenshot 2023-08-04 195718](https://github.com/harsh2k2/ShareSphere/assets/72307191/b1c03030-f3ba-42bd-941b-0fbb4b9abacd)
-![Screenshot 2023-08-04 191324](https://github.com/harsh2k2/ShareSphere/assets/72307191/8f450822-42aa-4e14-8d9a-8a6ec662108f)
-![Uploading Screenshot 2023-08-04 191311.png…]()
 
 
+![Screenshot 2023-08-04 195819](https://github.com/harsh2k2/ShareSphere/assets/72307191/f78635fc-f6ee-484d-9b3b-c627cdba1c51)
 
-![Screenshot 2023-08-04 195859](https://github.com/harsh2k2/ShareSphere/assets/72307191/2195a37c-1fb6-436a-b889-1e64c5186e00)
-
-
-![Screenshot 2023-08-04 195819](https://github.com/harsh2k2/ShareSphere/assets/72307191/1468a212-e759-49ac-84c2-5ac2eb648c3a)
