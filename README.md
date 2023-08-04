@@ -56,6 +56,7 @@ To set up and run the project locally, open 2 split terminal and from terminal:
 
 
 
+![Screenshot 2023-08-04 191311](https://github.com/harsh2k2/ShareSphere/assets/72307191/f3273e66-a19c-4131-a742-b6af9d33902e)
 
 ![Screenshot 2023-08-04 191324](https://github.com/harsh2k2/ShareSphere/assets/72307191/473ce0b3-a209-4cb3-81c5-7ab37abd5571)
 
