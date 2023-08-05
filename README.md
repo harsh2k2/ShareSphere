@@ -25,7 +25,6 @@ ShareSphere is a feature-rich social media platform built using the MERN (MongoD
 
 - **Modern Design**: Leveraged Material-UI components and custom styling with Emotion for a modern and visually appealing design.
 
-- **Deployment and Hosting**: Successfully deployed the application on Heroku, showcasing proficiency in deployment and hosting.
 
 ## Technologies Used
 
