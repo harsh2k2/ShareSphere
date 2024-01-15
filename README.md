@@ -56,4 +56,10 @@ ShareSphere is a feature-rich social media platform built using the MERN (MongoD
 
 ![Screenshot 2023-08-04 195819](https://github.com/harsh2k2/ShareSphere/assets/72307191/f78635fc-f6ee-484d-9b3b-c627cdba1c51)
 
+
+
 ![Screenshot 2023-08-04 195859](https://github.com/harsh2k2/ShareSphere/assets/72307191/02a279bd-5764-44d9-b831-b1a67f574bea)
+
+
+
+https://github.com/harsh2k2/ShareSphere/assets/72307191/cca82644-da98-48df-837d-552fd5b69fd4
